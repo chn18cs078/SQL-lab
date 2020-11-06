@@ -1,5 +1,3 @@
-USE lab;
-
 #a
 CREATE TABLE student (
 	sno INT AUTO_INCREMENT PRIMARY KEY,
